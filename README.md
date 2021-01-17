@@ -1,2 +1,2 @@
 # ASP.NET-Core-3.1---JWT-Authentication
-LeaningJ WT Authentication with Jason Watmore
+Leaning JWT Authentication with Jason Watmore
